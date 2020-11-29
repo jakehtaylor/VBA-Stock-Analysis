@@ -15,4 +15,4 @@
 
 * Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-![](Results 2016.png)
+![]("Results 2016.png")
