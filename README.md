@@ -13,8 +13,6 @@
 
 * Return the stocks with the Greatest percent increase, Greatest percent decrease and Greatest total volume.
 
-![](Results 2016.png)
-
 * Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-
+![](Results 2016.png)
