@@ -1,6 +1,6 @@
 # VBA-challenge: Stock Market Analysis #
 
-## Objective ##
+## Objectives ##
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
@@ -12,6 +12,8 @@
 * Add conditional formatting that will highlight positive change in green and negative change in red.
 
 * Return the stocks with the Greatest percent increase, Greatest percent decrease and Greatest total volume.
+
+![](Results 2016.png)
 
 * Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
