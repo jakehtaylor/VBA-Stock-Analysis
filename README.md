@@ -1,4 +1,4 @@
-# VBA-challenge: Stock Market Analysis #
+# VBA Stock Analysis #
 
 ## Objectives ##
 
