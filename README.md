@@ -12,5 +12,5 @@ Created a script that will run once and loop through an entire workbook of excel
 The script implements conditional formatting that will highlight positive change in green and negative change in red, and returns the tickers with the greatest percent increase, greatest percent decrease and greatest total volume.
 
  
-<img src="Results 2016.png" alt="results">
+<img src="Results/Results 2016.png" alt="results">
 
